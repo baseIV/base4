@@ -50,7 +50,7 @@ div.box02{
     width: 100%;
     height: 781px;
     /* float: left; */
-    background-image: url("Image/hero-bg01.jpg");
+    background-image: url("hero-bg01.jpg");
     background-repeat: no-repeat;
     /* border: 2px solid rgba(255, 0, 0, .0); */
     float: left;
@@ -83,7 +83,7 @@ div.box03{
     display: none;
 }
 div.box04{
-    background-image: url("Image/section-wrapper-bg.png");
+    background-image: url("section-wrapper-bg.png");
     background-repeat: no-repeat;
     /* margin-top: -600px; */
     width: 100%;
